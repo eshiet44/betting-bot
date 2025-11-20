@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "betting-nft",
+  "private_key_id": "133389d9a98265fa833979f832e022d237e77458",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBmMiYLhKGJmjK\nwBzMRb3UU5nfjxHemIPtY6R06T4nHBs/qjRMeUKDeL+3+z7zZXjCogF2QscjwBUv\njVbfPeVQRbVLojePR6zMG0dY7niifUtLDde/wwQ2J+gwKfXQtFEfHLSGNP9bGfaG\n1SWSNN+Az3zpenQmq1RpjzC1LlYXHG2TF8uqQz5VzskrLwwSml1PoSRdVszHfF0K\nVTcoYTxRiclWTcy2GiK/vAO9eQ3aPnhm8zccqzkMTNx2pOSsyI4Q4O6v3zC3k91B\ngAea8HPRyY88Ms6rJASmG8nDLKsAI0SSkkE2PtzxWUtU+uNpnmaaSL+Ke6Lk642E\nImKZqm1jAgMBAAECggEAFLRjV6stvf0jnfN34PzgdXHPdhJWBelnyp6qevpq9EHU\nRDXOzBL34xmp32JWdC94/8/VujEgHRmw6loCXXPAL5qU7hbWPFOdDmMoeUFf03j0\n8Xz0gwS3UZdpBKWoLX7rYhlu0R+f471eGUN4di+Da8JFCK9Y9r3CFFwFCIuBF415\n7cIVGj0MhA2e+16xeZrWgjbEpTJRefvZOOudXkf/8OtiTuAqD1mmQpmMSf79AR7E\nnLe9IuuhBWONsKvqJGYLmFH/qls1bP6grbwb/1ABHrLwntXITUL3m3m/NIBsfOVr\nBiwJWvT7bAsyOQTZvf324WpTntF73hBltQ5/B8AlSQKBgQD1haGvc39c8xoyIQnI\nd9WhEo1AQ8StomoB0iPEniECrstEMix6/ojijGh741jG/EWRlTYTg2zGdEmFvzeu\n8BzO6wKRrFOnaDNoezkNq3vQ/cozqmGPimmU5JxlORbihhKKYm1iRxJCRU4nBJQk\nhkISMT0m5h544o8CpEu6NY87XQKBgQDJ29xY5+c+vQaDWnAuci2qfF1PclOajMoR\nHqsi66XwCreug40kTGDxcdOgRF2Z9M7x3lOywB1Sc50alsnFDC2EsgcgCqKqEKmN\ntR5VmKxko0WLykT81ZZtnwrIIe5M8HspmkgrtX1h6X3bAGj7fOuVVkOfnOi8TmVR\nE3oHTyJ/vwKBgQC5gY9Jjn2j0DZxu861ff2WZvr8nHeFLdrkp07JJyUP7tu8GiDL\niXgJnEbxnDQenMs/lTq3gax1QbWvbWv4LInHuX9Ga6sFKND212ujLXcu0CKv6MMv\n/keJ7TVRsdHds6lcj8PP5p0gH1dOWcJI2nwfXL60nlhVw/CD8XkaJ4+iLQKBgHjA\nUNvOPgLFyLOi0iC2pKKrqpXv6hs1xVrgYbeOB8HEZ4S5pSDln8hPMy1YODX0wCbn\nvGHdkqzUBFL3iNObKU+Lv79nHU9mkEb45aCGp/m7wcqRwRsOGeKRlT2LLqZP5R1J\n8YpUEyETL/pmEGcAn1zCMcm1b3PV4b3STNk6eYS5AoGBALogGoQpU1yjnL/YxFPk\nvb/Z4qRgf4onwvyZibC6JFf3I4I7610TLGoq6Mh1mA51dL/vKAtsJtTh1Co0UCyn\n/5XPJAyZxVlRw+hoY1wCc+Ci8mrdcz/n0fDN4nRTVTWtfRTym/8WzNBpjwthRtTR\n9LYI2GUT1W0FGBvzTCADr+jc\n-----END PRIVATE KEY-----\n",
+  "client_email": "discordbotservice@betting-nft.iam.gserviceaccount.com",
+  "client_id": "105963095354614275922",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/discordbotservice%40betting-nft.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
