@@ -7,7 +7,23 @@ import pytz
 import gspread
 import json
 import os
+from flask import Flask
+import threading
+
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return "Bot is alive!"
+
+def run_webserver():
+    app.run(host='0.0.0.0', port=8080)
+
+# Start web server in another thread
+threading.Thread(target=run_webserver).start()
+
 from google.oauth2.service_account import Credentials
+
 
 # local import
 from picks_strategy import generate_picks  # uses your API key inside picks_strategy.py
@@ -164,3 +180,4 @@ async def strategy_loop():
 
 # graceful run
 client.run(DISCORD_TOKEN)
+
